@@ -1,0 +1,29 @@
+.header {
+    padding: 35px 0; 
+    position: absolute;
+    top:0;
+    width: 100%;
+    z-index: 5;
+  }
+
+  .menu {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-right: 10px;
+}
+.menu li {
+    margin-right: 20px;
+}
+
+.menu__item a{
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-weight: 500;
+   
+}
+
+.menu__item a:hover {
+    color: rgb(156, 100, 35);
+}
+
