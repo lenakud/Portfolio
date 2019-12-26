@@ -23,8 +23,8 @@ a, .link {
 }
 
 a:hover, .link:hover {
-    color: rgb(62, 125, 243);
-    text-decoration: underline;
+    
+    text-decoration:none;
 }
 
 
